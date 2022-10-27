@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Compwnter</h1>
-<h3 align="center">A professional lego hacker from the United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=compwnter&label=Profile%20views&color=0e75b6&style=flat" alt="compwnter" /> </p>
 
@@ -7,7 +6,7 @@
 
 - 🔭 I’m currently working on [Falling Stars](https://www.roblox.com/groups/14320498/Falling-Stars-Ultimate-Galaxy#!/about)
 
-- 🌱 I’m currently learning **Luau**
+- 🌱 I’m currently learning **Lua**
 
 - 💬 Ask me about **anything Roblox programming related**
 
